@@ -1,0 +1,35 @@
+{
+    "intents":[
+        {
+    "tag":"hello",
+    "patterns":["hello","hi","hey"
+    ],
+    "responses":["Hello Sir,",
+    "Hello Sir, Nice to meet you.",
+    "Hiii Sir"
+    ]
+        },
+
+        {
+        "tag":"max stop",
+        "patterns":["max stop","bye","goodbye","see you later","tata","exit"
+        ],
+        "responses":["Bye, Sir.",
+        "Ok sir",
+        "Meet soon",
+        "If you have any queery dont hesitate to ask",
+        "Good Bye sir"
+
+        ]
+        },
+
+        {
+            "tag":"open",
+            "patterns":["open" , "launch" ,"visit" ,"start"
+            ],
+            "responses":["open"
+            ]
+ }
+        
+]
+}
