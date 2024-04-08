@@ -1,2 +1,5 @@
 # AI-ASSISTANT
- AI assistant using pytrhon.
+ Please add your Chat gpt api into api.txt
+ Download all the required dependencies using npm --install name of  dependencides.
+
+ 
